@@ -32,5 +32,5 @@
 - Original from [here](https://www.thekitchn.com/chicken-potato-soup-recipe-23411729).
 ### 2022-11-02
 - Make sure the soup isn't boiling when you add the chicken, or it will come out rubbery.
-- The kid loved it and actually asked for leftovers.
+- The kid loved it and actually asked for leftovers.  He especially liked the carrots.  
 - The original calls for one box of broth and two cups of milk, but I accidentally used two cartons of chicken stock instead.  I added a couple tablespoons of butter and a splash of half and half to compensate.  Extra flour was needed in order to sufficiently thicken the soup.
