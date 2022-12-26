@@ -11,18 +11,17 @@
 - 1 teaspoon salt
 - 5 tablespoons unsalted butter
 - 6 tablespoons all-purpose flour
-- 6 cups chicken broth
-- ½ cup heavy cream
+- 48 oz. (6 cups) chicken broth
+- 2 cups heavy cream, divided
 - ½ teaspoons dried thyme
 - 2 bay leaves
-- 1 ½ cups frozen peas
+- 1½ cups frozen peas
 - 4 tablespoons fresh minced parsley
 
 ### Dumplings
 - 2 cups all-purpose flour
 - 1 tablespoon baking powder
 - ½ teaspoon salt
-- 1 ⅓ cups heavy cream
 
 ## Instructions
 1. Working in batches, brown chicken over medium-high heat in a 6 quart Dutch oven. Remove and set aside.
@@ -30,9 +29,9 @@
 3. Add garlic and stir for another minute.
 4. Reduce heat to medium-low and add butter and flour, stirring constantly for 3 minutes to avoid lumps.
 5. Add chicken and any accumulated juices back to Dutch oven.  Stir to to coat in roux/vegetable mix.
-6. Add chicken broth, cream, thyme, and bay leaves and bring to a simmer. 
+6. Add chicken broth, ½ cup cream, thyme, and bay leaves and bring to a simmer. 
 7. Once soup is at a simmer, add frozen peas and cover.
-8. In a separate bowl, combine flour, baking powder, salt, pepper, and cream. Stir until mixture comes together into single mass of dough.
+8. In a separate bowl, combine flour, baking powder, salt, pepper, and remaining cream. Stir until mixture comes together into single mass of dough.  It's fine if the dough is a bit dry.  Add cream, half and half, or milk if it isn't coming together.
 9. Using a large spoon or ice cream scoop, form dough into small round balls about 1 inch in diameter (this dough mixture should yield 14-16 dumplings).
 10. Place dough balls into simmering soup (making sure they don’t touch) and cover.
 11. Let soup simmer for 15 minutes or until dumplings are cooked (they should pass the toothpick test).
@@ -40,4 +39,3 @@
 
 ## Notes
 - Original from [here](https://www.reddit.com/r/GifRecipes/comments/5cmz3g/cozy_chicken_dumplings/d9xpnnx/)
-
