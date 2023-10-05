@@ -14,10 +14,10 @@
 - 1/2 tsp pepper
 
 ### Glaze
-- 1/2 cup ketchup
-- 1/4 cup brown sugar
-- 1 tbsp worcestershire sauce
-- 1 tsp dijon mustard
+- 1/2 cup (110g) ketchup
+- 1/4 cup (50g) brown sugar
+- 1 tbsp (15g) worcestershire sauce
+- 1 tsp (5g) dijon mustard
 - 1/4 tsp cumin
 
 ## Instructions
