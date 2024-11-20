@@ -1,8 +1,6 @@
 # Five Hour Beef Stew
 
 ## Ingredients 
-
-### Loaf
 - 2 lbs. stew beef
 - 4 carrots
 - 3 celery stalks
@@ -24,7 +22,7 @@
 6. Remove the Dutch oven from the heat, and deglaze with bouillon mixture.
 7. Place in 250 degree oven for five hours or more.
 
-## Instant Pot Instructiions
+## Instant Pot Instructions
 1. Preheat IP on saute-high.
 2. Chop carrots, celery, and normal onion (if using) into chunks.
 3. Brown beef in IP.
